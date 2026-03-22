@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Drafted initial implementation plan for v2
 - Fixed off-by-one error in loop
+
+## 2026-03-22
+- Wrote notes on upcoming feature design
+- Reviewed open issues, added labels
+- Verified API endpoint response schema
