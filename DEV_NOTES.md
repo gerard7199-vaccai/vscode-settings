@@ -31,3 +31,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Added basic usage examples to README
 - Cross-checked behaviour against spec
+
+## 2026-03-23
+- Noted known limitation in docs
+- Refactored module structure for clarity
+- Ran linter, applied auto-fixes
