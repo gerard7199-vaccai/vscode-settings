@@ -41,3 +41,8 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Improved log message formatting
 - Resolved deprecation warnings
+
+## 2026-03-30
+- Added .editorconfig for consistent formatting
+- Resolved deprecation warnings
+- Added basic retry logic for network requests
