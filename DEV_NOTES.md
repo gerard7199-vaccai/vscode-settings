@@ -59,3 +59,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Resolved deprecation warnings
 - Wrote notes on upcoming feature design
+
+## 2026-04-06
+- Noted known limitation in docs
