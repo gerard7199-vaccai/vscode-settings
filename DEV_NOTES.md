@@ -54,3 +54,8 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed minor edge case in input handling
 - Checked for memory leaks in long-running path
 - Added inline documentation for core functions
+
+## 2026-04-06
+- Updated CI cache strategy
+- Resolved deprecation warnings
+- Wrote notes on upcoming feature design
