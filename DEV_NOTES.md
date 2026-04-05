@@ -62,3 +62,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-06
 - Noted known limitation in docs
+
+## 2026-04-06
+- Documented config options
+- Cleaned up old debug logs
