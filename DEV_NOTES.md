@@ -66,3 +66,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Documented config options
 - Cleaned up old debug logs
+
+## 2026-04-13
+- Investigated performance bottleneck, noted findings
+- Resolved deprecation warnings
+- Fixed minor edge case in input handling
